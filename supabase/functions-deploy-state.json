@@ -1,0 +1,13 @@
+{
+  "projectId": "72509866",
+  "functions": {
+    "analyze-food": {
+      "hasChanged": false,
+      "hash": "0b18169627a1d4d3f0e84cf935129f957aedcd379fd76755739b1fe46c132191"
+    },
+    "food-chat": {
+      "hasChanged": false,
+      "hash": "4eb0bf810eaa2818a7e247b48a674103d9857fc84ebec55f4680007bbb01ffde"
+    }
+  }
+}

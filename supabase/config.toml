@@ -1,0 +1,5 @@
+[functions.analyze-food]
+verify_jwt = true
+
+[functions.food-chat]
+verify_jwt = true
